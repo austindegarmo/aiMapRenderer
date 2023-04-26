@@ -37,3 +37,6 @@ function initMap() {
     }
   }
  
+  initMap();
+
+console.log("made it to the end")
